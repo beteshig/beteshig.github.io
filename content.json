@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "BETESHIG studios"
+    "title": "BETESHIG studio"
   },
   "nav": {
     "links": [
@@ -18,7 +18,7 @@
     "subtitle": "Small studio. Weird ideas. Serious games.",
     "slides": [
       {
-        "text": "BETESHIG studios is an indie game studio driven by a simple belief: great games come from spite, snacks, and an unhealthy attachment to pixel art. We've spent time honing our skills and building our voice — and now we're respawning as a real studio.<br><br>We build with Godot, create art in Aseprite, and craft 3D assets in Blender.",
+        "text": "BETESHIG studio is an indie game studio driven by a simple belief: great games come from spite, snacks, and an unhealthy attachment to pixel art. We've spent time honing our skills and building our voice — and now we're respawning as a real studio.<br><br>We build with Godot, create art in Aseprite, and craft 3D assets in Blender.",
         "type": "image",
         "src": "assets/pics/beteshig_team.jpeg",
         "alt": "The Beteshig team"
@@ -90,10 +90,10 @@
   },
   "footer": {
     "email": "hello@beteshigstudios.com",
-    "copyright": "2026 BETESHIG studios. All rights reserved.",
+    "copyright": "2026 BETESHIG studio. All rights reserved.",
     "socials": [
-      { "label": "Twitter / X", "url": "https://x.com/beteshigstudios", "img": "assets/links/x-logo/logo-white.png" },
-{ "label": "YouTube", "url": "https://www.youtube.com/@beteshigstudios", "img": "assets/links/YouTube_Icon/Digital/03 White/yt_icon_white_digital.png" },
+      { "label": "Twitter / X", "url": "https://x.com/beteshig", "img": "assets/links/x-logo/logo-white.png" },
+{ "label": "YouTube", "url": "https://www.youtube.com/@beteshigstudio", "img": "assets/links/YouTube_Icon/Digital/03 White/yt_icon_white_digital.png" },
       { "label": "GitHub", "url": "https://github.com/beteshig", "img": "assets/links/GitHub Logos/PNG/GitHub_Invertocat_White.png" },
       { "label": "itch.io", "url": "https://adisuciu.itch.io", "img": "assets/links/Itchio/logos/itchio-logo-textless-white.png" }
     ]
